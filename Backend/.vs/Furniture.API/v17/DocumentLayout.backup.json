@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gitlr\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entityconfigurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entityconfigurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\enums\\paymentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\paymentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entityconfigurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entityconfigurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entityconfigurations\\furnitureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entityconfigurations\\furnitureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\repositories\\furniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\furniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\requestmodels\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\requestmodels\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\responsemodels\\furnitureresponsemodels\\chairresponsedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\responsemodels\\furnitureresponsemodels\\chairresponsedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\responsemodels\\furnitureresponsemodels\\tableresponsedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\responsemodels\\furnitureresponsemodels\\tableresponsedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\responsemodels\\furnitureresponsemodels\\allorderedfurnitureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\responsemodels\\furnitureresponsemodels\\allorderedfurnitureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\responsemodels\\furnitureresponsemodels\\furnitureresponseinbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\responsemodels\\furnitureresponsemodels\\furnitureresponseinbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\services\\furnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\services\\furnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\abstractions\\services\\ifurnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\services\\ifurnitureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\abstractions\\repositories\\ifurniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\repositories\\ifurniturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\models\\furnituremodels\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\furnituremodels\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\abstractions\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\models\\furnituremodels\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\furnituremodels\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|c:\\gitlr\\backend\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B482D22B-81B6-49A6-AB40-E29DF25B7FE4}|Domain\\Domain.csproj|solutionrelative:domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entities\\furnitureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\furnitureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|c:\\gitlr\\backend\\dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B7C8C-44CE-4518-AE85-5DEA47246286}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|c:\\gitlr\\backend\\furniture.api\\responsemodels\\furnitureresponsemodels\\furtnitureresponsesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D372D5C-A402-4255-B9F0-D7E38EBA3FF2}|Furniture.API\\FurnitureAPI.csproj|solutionrelative:furniture.api\\responsemodels\\furnitureresponsemodels\\furtnitureresponsesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:31:14.742Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FurnitureService.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Services\\FurnitureService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\FurnitureService.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Services\\FurnitureService.cs",
+              "RelativeToolTip": "Domain\\Services\\FurnitureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:33:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFurnitureRepository.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Repositories\\IFurnitureRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\Repositories\\IFurnitureRepository.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Repositories\\IFurnitureRepository.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\Repositories\\IFurnitureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:32:43.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FurnitureRepository.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Repositories\\FurnitureRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\FurnitureRepository.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Repositories\\FurnitureRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\FurnitureRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:31:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:30:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityEntity.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Entities\\CityEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\CityEntity.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Entities\\CityEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\CityEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T04:30:06.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EntityConfigurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\EntityConfigurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:49:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\Program.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\Program.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\Program.cs",
+              "RelativeToolTip": "Furniture.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:19:40.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Furniture.API\\appsettings.json",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\appsettings.json",
+              "RelativeToolTip": "Furniture.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T18:33:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FurnitureEntity.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Entities\\FurnitureEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\FurnitureEntity.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Entities\\FurnitureEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\FurnitureEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:28:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentOption.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Enums\\PaymentOption.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PaymentOption.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Enums\\PaymentOption.cs",
+              "RelativeToolTip": "Domain\\Enums\\PaymentOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:14:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EntityConfigurations\\CityConfiguration.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\CityConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\EntityConfigurations\\CityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:49:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:37:16.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EntityConfigurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\EntityConfigurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:49:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FurnitureConfiguration.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\FurnitureConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EntityConfigurations\\FurnitureConfiguration.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\DataAccess\\EntityConfigurations\\FurnitureConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\EntityConfigurations\\FurnitureConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:44:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FurtnitureResponseSummary.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurtnitureResponseSummary.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurtnitureResponseSummary.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurtnitureResponseSummary.cs",
+              "RelativeToolTip": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurtnitureResponseSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:40:02.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FurnitureController.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\Controllers\\FurnitureController.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\Controllers\\FurnitureController.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\Controllers\\FurnitureController.cs",
+              "RelativeToolTip": "Furniture.API\\Controllers\\FurnitureController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:42:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFurnitureService.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Services\\IFurnitureService.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\Services\\IFurnitureService.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Services\\IFurnitureService.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\Services\\IFurnitureService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:16:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Furniture.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\Furniture.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Abstractions\\Furniture.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\Furniture.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:31:48.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\City.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Models\\City.cs",
+              "RelativeToolTip": "Domain\\Models\\City.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:30:47.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Models\\FurnitureModels\\Chair.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\FurnitureModels\\Chair.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Models\\FurnitureModels\\Chair.cs",
+              "RelativeToolTip": "Domain\\Models\\FurnitureModels\\Chair.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:33:49.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Models\\FurnitureModels\\Table.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\FurnitureModels\\Table.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Models\\FurnitureModels\\Table.cs",
+              "RelativeToolTip": "Domain\\Models\\FurnitureModels\\Table.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:34:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:29:15.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Domain\\Models\\Order.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:58:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Furniture.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:43:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllOrderedFurnitureResponse.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\AllOrderedFurnitureResponse.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\AllOrderedFurnitureResponse.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\AllOrderedFurnitureResponse.cs",
+              "RelativeToolTip": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\AllOrderedFurnitureResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:39:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\RequestModels\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\RequestModels\\OrderRequest.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\RequestModels\\OrderRequest.cs",
+              "RelativeToolTip": "Furniture.API\\RequestModels\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:15:24.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TableResponseDetails.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\TableResponseDetails.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\TableResponseDetails.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\TableResponseDetails.cs",
+              "RelativeToolTip": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\TableResponseDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:01:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChairResponseDetails.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\ChairResponseDetails.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\ChairResponseDetails.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\ChairResponseDetails.cs",
+              "RelativeToolTip": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\ChairResponseDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:39:31.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FurnitureResponseInBasket.cs",
+              "DocumentMoniker": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurnitureResponseInBasket.cs",
+              "RelativeDocumentMoniker": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurnitureResponseInBasket.cs",
+              "ToolTip": "C:\\gitlr\\Backend\\Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurnitureResponseInBasket.cs",
+              "RelativeToolTip": "Furniture.API\\ResponseModels\\FurnitureResponseModels\\FurnitureResponseInBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:32:30.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

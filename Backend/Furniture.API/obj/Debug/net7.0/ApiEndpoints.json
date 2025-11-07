@@ -1,0 +1,147 @@
+[
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "AddFurnitureInBasketById",
+    "RelativePath": "furniture/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "GetAllFurnitureByType",
+    "RelativePath": "furniture/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FurnitureAPI.ResponseModels.FurnitureResponseModels.FurnitureResponseSummary, FurnitureAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "GetFurnitureByTypeAndName",
+    "RelativePath": "furniture/{type}/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FurnitureAPI.ResponseModels.FurnitureResponseModels.TableResponseDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "GetAllFurnitureFromBasket",
+    "RelativePath": "furniture/basket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FurnitureAPI.ResponseModels.FurnitureResponseModels.FurnitureResponseInBasket, FurnitureAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "DeleteFurnitureFromBasketById",
+    "RelativePath": "furniture/basket/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.FurnitureController",
+    "Method": "GetAllOrderedFurniture",
+    "RelativePath": "furniture/order-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FurnitureAPI.ResponseModels.FurnitureResponseModels.AllOrderedFurnitureResponse, FurnitureAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FurnitureAPI.Controllers.OrderController",
+    "Method": "MakeOrder",
+    "RelativePath": "order/make-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderRequest",
+        "Type": "Furniture.API.RequestModels.OrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

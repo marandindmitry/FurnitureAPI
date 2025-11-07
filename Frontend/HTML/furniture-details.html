@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Офисный стул - Стульчики-Стольчики</title>
+    <link rel="stylesheet" href="/CSS/index.css">
+</head>
+
+<body>
+    <header>
+        <button onclick="window.location.href='main.html'">Главная</button>
+        <div class="logo">🪑 Магазин Мебели "Стульчики-Стольчики"</div>
+        <button class="cart" onclick="window.location.href='cart.html'">🛒 Корзина</button>
+    </header>
+
+    <main>
+        
+    </main>
+
+    <footer>
+        <p>Контакты: +7 (123) 456-78-90 | Email: info@stulchiki-stolchiki.ru</p>
+        <p>&copy; 2025 Стульчики-Стольчики. Все права защищены.</p>
+    </footer>
+    <script src="./Scripts/loadFurnitureDetails.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Читаем параметры из URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const typeParam = urlParams.get('type');
+            const nameParam = urlParams.get('name');
+
+            // Вызываем функцию loadFurnitureDetail с полученными параметрами
+            loadFurnitureDetails(typeParam, nameParam);
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/index.css">
+    <title>Корзина - Стульчики-Стольчики</title>
+    <script src="./Scripts/loadAllFurnitureInCart.js" defer></script>
+    <script src="./Scripts/makeOrder.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo">🪑 Магазин Мебели "Стульчики-Стольчики"</div>
+        <nav>
+            <button onclick="window.location.href='main.html'">Главная</button>
+            <button onclick="window.location.href='orders.html'">📋 Заказы</button>
+            <button class="cart" onclick="window.location.href='cart.html'">🛒 Корзина</button>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Ваша корзина</h1>
+        </section>
+
+        <section id="cart-container" style="display: none">
+            <!-- Товары загружаются сюда динамически -->
+        </section>
+        <div id="total-price" class="total-price-section" style="display: none">
+            Общая сумма: <span id="total-amount">0</span> ₽
+        </div>
+        <section class="order-form">
+            <h2>Оформление заказа</h2>
+            <form id="order-form">
+                <fieldset>
+                    <legend>Данные заказчика</legend>
+                    <label for="name"><strong>Имя:</strong></label>
+                    <input type="text" id="name" required />
+                    <label for="phone"><strong>Номер телефона:</strong></label>
+                    <input type="tel" id="phone" required />
+                    <label for="city"><strong>Город:</strong></label>
+                    <input type="text" id="city" required />
+                </fieldset>
+                <fieldset>
+                    <legend>Данные заказа</legend>
+                    <strong>Тип доставки:</strong><br />
+                    <div class="radio-group">
+                        <label for="pickup-moscow">
+                            <input type="radio" id="pickup-moscow" name="deliveryType" value="1" required />
+                            Самовывоз из Города Москва, склад "Бубенчики"
+                        </label>
+                        <label for="pickup-city">
+                            <input type="radio" id="pickup-city" name="deliveryType" value="2" required />
+                            Самовывоз в соответствии с выбранным городом
+                        </label>
+                    </div>
+                    <strong>Способ оплаты:</strong><br />
+                    <div class="radio-group">
+                        <label for="card-now">
+                            <input type="radio" id="card-now" name="paymentOption" value="1" required />
+                            По карте сейчас
+                        </label>
+                        <label for="on-delivery">
+                            <input type="radio" id="on-delivery" name="paymentOption" value="2" required />
+                            При получении
+                        </label>
+                    </div>
+                </fieldset>
+                <button type="submit" onclick="handleSubmitButtonClick()">Оформить заказ</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Контакты: +7 (123) 456-78-90 | Email: info@stulchiki-stolchiki.ru</p>
+        <p>© 2025 Магазин "Стульчики-Стольчики". Все права защищены.</p>
+    </footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            updateShoppingCart(); // Вызываем функцию загрузки мебели
+        });
+    </script>
+</body>
+
+</html>

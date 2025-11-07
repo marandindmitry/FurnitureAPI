@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Столы - Стульчики-Стольчики</title>
+    <link rel="stylesheet" href="/CSS/index.css">
+</head>
+
+<body>
+    <header>
+        <button onclick="window.location.href='main.html'">Главная</button>
+        <div class="logo">🪑 Магазин Мебели "Стульчики-Стольчики"</div>
+        <button class="cart" onclick="window.location.href='cart.html'">🛒 Корзина</button>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1></h1>
+            <p></p>
+        </section>
+
+        <div id="carts"></div> <!-- Здесь будут вставляться товары -->
+    </main>
+
+    <footer>
+        <p>Контакты: +7 (123) 456-78-90 | Email: info@stulchiki-stolchiki.ru</p>
+        <p>© 2025 Магазин "Стульчики-Стольчики". Все права защищены.</p>
+    </footer>
+
+    <script src="./Scripts/loadAllFurnitureByType.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const typeParam = urlParams.get('type');
+            loadAllFurnitureByType(typeParam); // Вызываем функцию загрузки мебели
+        });
+    </script>
+</body>
+
+</html>

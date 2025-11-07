@@ -1,0 +1,35 @@
+D:\340V\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.deps.json
+D:\340V\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.dll
+D:\340V\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.pdb
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfoInputs.cache
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfo.cs
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.dll
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\refint\SharedKernel.dll
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.pdb
+D:\340V\Backend\SharedKernel\obj\Debug\net7.0\ref\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.deps.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfo.cs
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\refint\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\ref\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.AssemblyReference.cache
+C:\gitlr\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.deps.json
+C:\gitlr\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.dll
+C:\gitlr\Backend\SharedKernel\bin\Debug\net7.0\SharedKernel.pdb
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.AssemblyReference.cache
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfoInputs.cache
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfo.cs
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.dll
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\refint\SharedKernel.dll
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\SharedKernel.pdb
+C:\gitlr\Backend\SharedKernel\obj\Debug\net7.0\ref\SharedKernel.dll

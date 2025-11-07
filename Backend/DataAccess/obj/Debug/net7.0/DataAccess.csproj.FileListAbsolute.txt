@@ -1,0 +1,57 @@
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\Domain.dll
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.dll
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\Domain.pdb
+D:\340V\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.pdb
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.Up2Date
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+D:\340V\Backend\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.Up2Date
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\Domain.dll
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.dll
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\Domain.pdb
+C:\gitlr\Backend\DataAccess\bin\Debug\net7.0\SharedKernel.pdb
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.csproj.Up2Date
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\gitlr\Backend\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

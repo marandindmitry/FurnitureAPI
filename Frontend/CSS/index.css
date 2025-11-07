@@ -1,0 +1,405 @@
+/* Общие стили */
+body {
+    font-family: 'Arial', sans-serif; 
+    margin: 0;
+    background-image: url('/Images/MEBEL.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: rgba(245, 245, 220, 0.9); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #8B4513; 
+}
+
+nav {
+    display: flex;
+    gap: 15px;
+}
+
+/* Кнопка корзины */
+.cart {
+    background-color: #228B22; 
+}
+
+.cart:hover {
+    background-color: #006400; 
+}
+
+/* Стиль для кнопок */
+button {
+    padding: 12px 24px;
+    background-color: #D2691E; 
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px; 
+    font-size: 16px;
+    transition: all 0.3s ease; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+}
+
+button:hover {
+    background-color: #A0522D; 
+    transform: scale(1.05); 
+}
+
+main {
+    padding: 40px 20px;
+    margin: 0 auto;
+    flex: 1; 
+}
+
+.hero {
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero h1 {
+    color: #8B4513;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Категории */
+.categories {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap; 
+}
+
+.category-card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.category-card h2 {
+    color: #8B4513;
+    margin-bottom: 10px;
+}
+
+.category-card p {
+    margin-bottom: 15px;
+    color: #666;
+}
+
+/* Карточка товара */
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    max-width: 485px;
+    margin-bottom: 20px;
+}
+
+.card a {
+    text-decoration: none; 
+}
+
+.card:hover {
+    transform: translateY(-5px); 
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    color: #8B4513;
+    font-size: 22px;
+}
+
+.card p {
+    color: #666;
+    font-size: 18px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+/* Стили для страницы товара */
+.product-details {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+
+}
+
+.product-image {
+    flex: 1;
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-info {
+    flex: 1;
+    padding: 20px;
+    background-color: rgba(245, 245, 220, 0.9); 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-info h2 {
+    color: #8B4513; 
+}
+
+.product-info p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+.btn-primary {
+    margin-top: 15px; 
+}
+
+/* Подвал */
+footer {
+    background-color: rgba(245, 245, 220, 0.9);
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    color: #555;
+}
+
+.empty-cart {
+    text-align: center;
+    padding: 40px ;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Стили для формы заказа*/
+.order-form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.order-form h2 {
+    color: #8B4513;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+fieldset {
+    border: 2px solid #D2691E;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(245, 245, 220, 0.8);
+}
+
+legend {
+    color: #8B4513;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="date"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+
+}
+
+input[type="text"]:focus,
+input[type="tel"]:focus,
+input[type="date"]:focus {
+    border-color: #D2691E;
+    outline: none;
+}
+
+.radio-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column; 
+    gap: 8px; 
+}
+
+.radio-group label {
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.radio-group input[type="radio"] {
+    accent-color: #D2691E; 
+}
+
+.order-form button[type="submit"] {
+    display: block;
+    margin: 20px auto;
+}
+
+.total-price-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    font-size: 23px; 
+    font-weight: bold; 
+    margin-bottom: 20px ;
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+/* Стили для пустых заказов */
+.empty-orders {
+    text-align: center;
+    padding: 40px ;
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.orders-icon {
+    font-size: 80px; 
+    margin-bottom: 20px;
+}
+
+.orders-message {
+    font-size: 20px;
+    color: #252525;
+    margin-bottom: 30px;
+}
+
+/* Карточка заказа */
+.order-card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.order-card:hover {
+    transform: translateY(-5px); 
+}
+
+.order-card h3 {
+    color: #8B4513;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.order-card p {
+    color: #666;
+    font-size: 16px;
+}
+
+.order-card h4 {
+    color: #8B4513;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+/* Контейнер для товаров в заказе */
+.order-items {
+    display: flex;
+    flex-direction: column; 
+    gap: 15px;
+}
+
+/* Каждый товар в заказе */
+.order-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: rgba(245, 245, 220, 0.8); 
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.order-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.order-item p {
+    margin: 0; 
+    font-size: 14px;
+    color: #555;
+}
+
+.order-item strong {
+    color: #8B4513;
+}
+
+/* Общая сумма заказа */
+.order-total {
+    text-align: right;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgba(245, 245, 220, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+

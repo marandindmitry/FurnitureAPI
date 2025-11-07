@@ -1,0 +1,107 @@
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.staticwebassets.endpoints.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.exe
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.deps.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.runtimeconfig.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\DataAccess.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.AssemblyInfo.cs
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\scopedcss\bundle\FurnitureAPI.styles.css
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\Furnitur.75E08330.Up2Date
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\refint\FurnitureAPI.dll
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.pdb
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.genruntimeconfig.cache
+C:\Users\User\Pictures\Новая папка\Новая папка\Текстовые материалы\Прог\Backend\Furniture.API\obj\Debug\net7.0\ref\FurnitureAPI.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\appsettings.Development.json
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.staticwebassets.endpoints.json
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\appsettings.json
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.exe
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.deps.json
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.runtimeconfig.json
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\FurnitureAPI.pdb
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Humanizer.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Npgsql.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\DataAccess.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Domain.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\SharedKernel.dll
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\DataAccess.pdb
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\Domain.pdb
+C:\gitlr\Backend\Furniture.API\bin\Debug\net7.0\SharedKernel.pdb
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.csproj.AssemblyReference.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.AssemblyInfoInputs.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.AssemblyInfo.cs
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.csproj.CoreCompileInputs.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\scopedcss\bundle\FurnitureAPI.styles.css
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\Furnitur.75E08330.Up2Date
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.dll
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\refint\FurnitureAPI.dll
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.pdb
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\FurnitureAPI.genruntimeconfig.cache
+C:\gitlr\Backend\Furniture.API\obj\Debug\net7.0\ref\FurnitureAPI.dll

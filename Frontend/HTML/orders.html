@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/index.css">
+    <title>Список заказов - Стульчики-Стольчики</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">🪑 Магазин Мебели "Стульчики-Стольчики"</div>
+        <nav>
+            <button onclick="window.location.href='main.html'">Главная</button>
+            <button class="cart" onclick="window.location.href='cart.html'">🛒 Корзина</button>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Ваши заказы</h1>
+        </section>
+        <section class="empty-orders" id="empty-orders" style="display: none;">
+            <div class="orders-icon">📋</div>
+            <div class="orders-message">У вас пока нет заказов. Оформите заказ в корзине!</div>
+            <button class="orders-btn" onclick="window.location.href='cart.html'">Перейти в корзину</button>
+        </section>
+        <section id="orders-container" style="display: none;">
+        </section>
+    </main>
+    <footer>
+        <p>Контакты: +7 (123) 456-78-90 | Email: info@stulchiki-stolchiki.ru</p>
+        <p>© 2025 Магазин "Стульчики-Стольчики". Все права защищены.</p>
+    </footer>
+
+    <script src="./Scripts/loadOrders.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            loadOrders();
+        });
+    </script>
+</body>
+
+</html>
